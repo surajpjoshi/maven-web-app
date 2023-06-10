@@ -2,7 +2,7 @@
 <head>
   <style>
     .title {
-      color: black;
+      color: blue;
     }
 
     .subtitle {
